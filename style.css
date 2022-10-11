@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(255, 29, 108);
+}
+
+.heading {
+    
+    text-align: center;
+    font-family: "Courier New";
+}
+.heading1 {
+    text-align: center;
+}
+
+.heading2 {
+    text-align: center;
+}
+
+.t1 {
+    color:white;
+text-align: center;
+text-shadow: 1px 1px black;
+}
+img {
+    height: 200px;
+    width: 200px;
+border-radius: 20px;
+margin-left: 50px;
+float: left;
+}
+
+.details {
+    float: left;
+    margin-left: 50px;
+    text-shadow: 1px 1px gray;
+    font-size: 20px;
+
+}
+
+.downloadlinks {
+    text-align: center;
+}
+
+
+.hr6 {
+    padding-top: 400px;
+}
+
+.ds {
+    text-align: center;
+}
+
+.dsl {
+    text-align: center;
+   font-size: 30px;
+}
+
+.audiof {
+    text-align: center;
+}
+
+.video {
+    text-align: center;
+}
+
+.homef {
+    text-align: center;
+    font-size: 30px;
+}
+
+.songlyrics_h {
+    font-style: italic;
+    text-align: center;
+}
+
+.songlyrics {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    text-shadow: 2px 2px black;
+}
+
+
+
+hr {
+    border-color: rgb(0, 236, 253);
+}
+
